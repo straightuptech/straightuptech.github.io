@@ -1,0 +1,16 @@
+{
+"companyName": "StraightUpTechnologies",
+"productName": "HauntedTest",
+"productVersion": "1.0",
+"dataUrl": "Haunted House.data.unityweb",
+"wasmCodeUrl": "Haunted House.wasm.code.unityweb",
+"wasmFrameworkUrl": "Haunted House.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}

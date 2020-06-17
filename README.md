@@ -1,24 +1,20 @@
 ### straightuptech.github.io
 # For WEb-GL Games
 
-A Showcase of the games I created before you can help with the public repositories or buy the code from the Private repositories or Itch.io account.
+A Showcase of the games I created before you can help with the public repositories or buy the code from the 
+Private repositories or Itch.io account.
 
 ## Play Following Games Right Now:
 
 # 1) Haunted Adventure
-<br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/HauntedTest/)
 
 # 2) Balloon Shooter
-<br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/Balloon%20Shooter/)
-<br>
 Access the full repository [full repository!](https://github.com/straight-up-technologies/Bow-Shooter-Game)
 
 # 3) Hexzer 3.0
-<br>
 Wanna play for fun [play it now!](https://straightuptech.github.io/Hexzer3.0/)
-<br>
 Access the full repository [full repository!](https://github.com/straight-up-technologies/Hexzer_Unity)
 
 ## Show some :heart: and star the repo to support the project

@@ -17,6 +17,9 @@ Access the full repository [full repository!](https://github.com/straight-up-tec
 Wanna play for fun [play it now!](https://straightuptech.github.io/Hexzer3.0/)
 Access the full repository [full repository!](https://github.com/straight-up-technologies/Hexzer_Unity)
 
+# 4) Air Hockey
+Wanna play for fun [play it now!](https://straightuptech.github.io/AirHockey/)
+
 ## Show some :heart: and star the repo to support the project
 
 [![GitHub stars](https://img.shields.io/github/stars/straightuptech/straightuptech.github.io.svg?style=social&label=Star)](https://github.com/straightuptech/straightuptech.github.io/)

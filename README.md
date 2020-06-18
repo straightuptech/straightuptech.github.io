@@ -4,6 +4,10 @@
 A Showcase of the games I created before you can help with the public repositories or buy the code from the 
 Private repositories or Itch.io account.
 
+### Show us support on our Patreon and get exclusive access
+[Please show Support access our patreon here](https://www.patreon.com/thestraighuptech)
+
+
 ## Play Following Games Right Now:
 
 # 1) Haunted Adventure

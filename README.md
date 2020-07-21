@@ -4,6 +4,10 @@
 A Showcase of the games I created before you can help with the public repositories or buy the code from the 
 Private repositories or Itch.io account.
 
+### Show us support on our Patreon and get exclusive access
+[Please show Support access our patreon here](https://www.patreon.com/thestraighuptech)
+
+
 ## Play Following Games Right Now:
 
 # 1) Haunted Adventure
@@ -16,6 +20,9 @@ Access the full repository [full repository!](https://github.com/straight-up-tec
 # 3) Hexzer 3.0
 Wanna play for fun [play it now!](https://straightuptech.github.io/Hexzer3.0/)
 Access the full repository [full repository!](https://github.com/straight-up-technologies/Hexzer_Unity)
+
+# 4) Air Hockey
+Wanna play for fun [play it now!](https://straightuptech.github.io/AirHockey/)
 
 ## Show some :heart: and star the repo to support the project
 

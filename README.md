@@ -25,7 +25,7 @@ Access the full repository [full repository!](https://github.com/straight-up-tec
 Wanna play for fun [play it now!](https://straightuptech.github.io/AirHockey/)
 
 # 5) AR Test
-wanna test [play it now!](https://straightuptech.github.io/ArTestWeb/)
+wanna test [play it now!](https://straightuptech.github.io/webTestAr/)
 
 
 ## Show some :heart: and star the repo to support the project

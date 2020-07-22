@@ -30,6 +30,8 @@ wanna test [play it now!](https://straightuptech.github.io/webTestAr/)
 # 6) AR video Test
 wanna test [play it now!](https://straightuptech.github.io/WebArVideo/)
 
+# 7) AR video Test
+wanna test [play it now!](https://straightuptech.github.io/pamphletTest/)
 
 ## Show some :heart: and star the repo to support the project
 

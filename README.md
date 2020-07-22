@@ -27,6 +27,9 @@ Wanna play for fun [play it now!](https://straightuptech.github.io/AirHockey/)
 # 5) AR Test
 wanna test [play it now!](https://straightuptech.github.io/webTestAr/)
 
+# 6) AR video Test
+wanna test [play it now!](https://straightuptech.github.io/WebArVideo/)
+
 
 ## Show some :heart: and star the repo to support the project
 

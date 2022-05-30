@@ -45,11 +45,12 @@ wanna test [play it now!](https://straightuptech.github.io/pamphletTest/)
 
 [Straightuptech](https://github.com/straightuptech/)  is maintaining this repository.
 
-
+##Privacy Policy
+[Visit PAge!](https://straightuptech980158192.wordpress.com/privacy-policy/)
 
 
 ## Donations
-I am a startup and made this game to conribute to the field, and it's hosted on GitHub (which means I don't have any hosting costs), 
+I am a indie Game Dev and made this game to conribute to the field, and it's hosted on GitHub (which means I don't have any hosting costs), 
 but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: 
 <br>
 3A8x9RkcnYgAb6HnWhPZix6K8HKgRP98em
